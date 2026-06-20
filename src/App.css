@@ -1,6 +1,6 @@
 
 
-/* New layout styles for Figma-based implementation */
+
 .nav {
   background: transparent;
   padding: 0 100px;
@@ -698,10 +698,7 @@
 }
 
 
-/* ===========================
-   TABLET NAVBAR
-=========================== */
-
+/*Tablet-Screen*/
 @media (max-width: 1100px) {
 
   .nav {
@@ -723,9 +720,6 @@
   }
 }
 
-/* ===========================
-   TABLET LAYOUT
-=========================== */
 
 @media (max-width: 1024px) {
 
@@ -807,9 +801,7 @@
   }
 }
 
-/* ===========================
-   MOBILE
-=========================== */
+/*  MOBILE */
 
 @media (max-width: 768px) {
 
